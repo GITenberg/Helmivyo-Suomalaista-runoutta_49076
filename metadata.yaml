@@ -1,0 +1,37 @@
+_repo: Helmivyo-Suomalaista-runoutta_49076
+contributor:
+  creator:
+    editor:
+      agent_name: Krohn, Julius
+      aliases:
+      - Krohn, Gyula
+      - Krohn, J. (Julius)
+      - Suonio
+      - Krohn, Julius Leopold Fredrik
+      birthdate: 1835
+      deathdate: 1888
+      gutenberg_agent_id: '4607'
+      url: http://www.gutenberg.org/2009/agents/4607
+      wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2015-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49076'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Helmivyö
+
+  Suomalaista runoutta'
+url: http://www.gutenberg.org/ebooks/49076
